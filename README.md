@@ -1,4 +1,4 @@
-# theLearningTreehouse
+# theLanguageTreehouse
 
 The Language Treehouse is a comprehensive language-learning platform that connects mentors with students, offering personalized educational experiences in multiple languages. This repository contains the code for the main landing page and a universal dashboard that serves as the foundation for both mentors and students to navigate the platform’s features.
 
